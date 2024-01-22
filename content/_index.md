@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'This is a title'
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Najlaa
+      title: Najlaa Mohamed
       image:
         filename: hero-academic.png
       cta:
@@ -75,7 +75,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: NLP, NeurAI researcher
+        - title: NLP, NeurAI researcher 
           company: University X
           company_url: ''
           company_logo: org-x
